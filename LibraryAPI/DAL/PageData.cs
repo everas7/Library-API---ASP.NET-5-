@@ -10,7 +10,7 @@ namespace LibraryAPI.DAL
 {
     public class PageData
     {
-        public static string SqlString = "Data Source= (local); Initial Catalog=LIBRARY_APP_V2; Integrated Security=true";
+        public static string SqlString = @"Data Source= (local); Initial Catalog=LIBRARY_APP_V2; Integrated Security=true";
 
         //Obtiene la pagina almacenado en la tabla de SQL con el BookID y PageID indicado
         public static Page GetPage(int BookID, int PageID)
