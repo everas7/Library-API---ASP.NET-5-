@@ -10,7 +10,7 @@ namespace LibraryAPI.DAL
 {
     public static class BookData
     {
-        public static string SqlString = "Data Source= (local); Initial Catalog=LIBRARY_APP_V2; Integrated Security=true";
+        public static string SqlString = @"Data Source= (local); Initial Catalog=LIBRARY_APP_V2; Integrated Security=true";
 
         //Obtiene un listado de los libros almacenados en tabla de SQL
         public static IEnumerable<Book> GetBooks()
