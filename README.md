@@ -14,5 +14,5 @@ Library REST API ASP.NET 5 (Sin uso de Entity Framework)
 
 ## Probando el API
 Rutas de ejemplo:
-Ej: api/book/2/page/1/text
-Ej: api/book/2/page/1/html
+* api/book/2/page/1/text
+* api/book/2/page/1/html
