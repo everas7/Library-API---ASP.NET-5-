@@ -3,7 +3,7 @@
 ## Overview
 This is a Library REST API ASP.NET 5 without EntityFramework for database connection.
 
-## Instrucciones para montar el proyecto:
+## Running Project
 
 1. Run the script "Library.sql" on a SQL Server instance.
 2. Open the solution LibraryAPI.sln on Visual Studio.
